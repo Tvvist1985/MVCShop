@@ -1,1 +1,1 @@
-database connection string in the file appsettings    (MS SQL)
+Database connection string in the file - appsettings.   
